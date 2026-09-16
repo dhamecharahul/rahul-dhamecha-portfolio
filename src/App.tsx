@@ -178,7 +178,7 @@ function App() {
             <div>
               <span className="eyebrow">06 / CONTACT</span>
               <h2>Let's build something<br/><span>worth shipping.</span></h2>
-              <p>Open to Python Lead Engineer, Full-Stack Engineering and technical leadership opportunities.</p>
+              <p>Open to Python + Nodejs Lead Engineer, Full-Stack Engineering and technical leadership opportunities.</p>
             </div>
             <div className="contact-links">
               <a href="mailto:errahuldhamecha@gmail.com"><Mail/> Email me <ArrowUpRight/></a>
